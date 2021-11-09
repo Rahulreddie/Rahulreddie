@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahul Reddy
 - 👀 I’m interested in Web Development and Moblie Application Development. 
-- 🌱 I’m currently learning Java,Oracle SQL and Flutter.
+- 🌱 I’m currently learning Java,Oracle SQL and Python.
 - 💞️ I’m looking to collaborate on IT companys,where I can improve my skills to move forward with IT sector.
 - 📫 How to reach me rahulreddyk0502@gmail.com
 
